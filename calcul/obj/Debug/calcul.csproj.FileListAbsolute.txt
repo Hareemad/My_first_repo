@@ -1,0 +1,12 @@
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\bin\Debug\calcul.exe.config
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\obj\Debug\calcul.csprojResolveAssemblyReference.cache
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\obj\Debug\calcul.Form1.resources
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\obj\Debug\calcul.Properties.Resources.resources
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\obj\Debug\calcul.csproj.GenerateResource.Cache
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\bin\Debug\calcul.exe
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\bin\Debug\calcul.pdb
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\obj\Debug\calcul.exe
+c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\obj\Debug\calcul.pdb
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\bin\Debug\calcul.exe.config
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\obj\Debug\calcul.exe
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\obj\Debug\calcul.pdb
