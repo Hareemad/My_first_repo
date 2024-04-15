@@ -10,3 +10,9 @@ c:\users\farrukh\documents\visual studio 2015\Projects\calcul\calcul\obj\Debug\c
 C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\bin\Debug\calcul.exe.config
 C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\obj\Debug\calcul.exe
 C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\obj\Debug\calcul.pdb
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\bin\Debug\calcul.exe
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\bin\Debug\calcul.pdb
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\obj\Debug\calcul.csprojResolveAssemblyReference.cache
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\obj\Debug\calcul.Form1.resources
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\obj\Debug\calcul.Properties.Resources.resources
+C:\Users\Farrukh\Documents\Visual Studio 2015\Projects\Calculgit\calcul\obj\Debug\calcul.csproj.GenerateResource.Cache

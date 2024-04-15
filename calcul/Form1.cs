@@ -111,6 +111,8 @@ namespace calcul
             textBox1.Text = textBox1.Text + "9";
             oppress = false;
         }
+
+        // Additopn Function
         private void Addition_Click(object sender, EventArgs e)
         {
             if (oppress == false)
@@ -119,8 +121,10 @@ namespace calcul
                 textBox1.Text = Convert.ToString(total);
                 op = "+";
                 oppress = true;
-            }
+            } 
         }
+
+        // Subtraction Function
         private void Sub_Click(object sender, EventArgs e)
         {
             if (oppress == false)
@@ -138,6 +142,8 @@ namespace calcul
                 oppress = true;
             }
         }
+
+        // Multiplication Function
         private void multiply(object sender, EventArgs e)
         {
             if (oppress == false)
@@ -155,6 +161,8 @@ namespace calcul
                 oppress = true;
             }
         }
+
+        //Division Function
         private void Divide_Click(object sender, EventArgs e)
         {
             if (oppress == false)
@@ -173,6 +181,8 @@ namespace calcul
             op = "/";
             oppress = true;
         }
+
+        // Equals Function
         private void equals(object sender, EventArgs e)
         {
             two = Convert.ToDouble(textBox1.Text);
@@ -213,7 +223,7 @@ namespace calcul
         private void Form1_Load(object sender, EventArgs e)
         {
         }
-
+        // Button Images Change On Click
         private void button1_MouseDown(object sender, MouseEventArgs e)
         {
             button1.BackgroundImage = calcul.Properties.Resources._11;
